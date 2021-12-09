@@ -1,0 +1,3 @@
+pyTelegramBotAPI>=2.26.0
+validators>=0.18.2
+Flask>=2.0.2

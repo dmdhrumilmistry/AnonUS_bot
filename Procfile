@@ -1,0 +1,1 @@
+web: python3 anonus_bot.py
